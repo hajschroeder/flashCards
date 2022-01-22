@@ -1,0 +1,248 @@
+#color-switch{
+  width: 460px;
+  border: 5px solid rgb(160, 160, 56);
+  padding: 15Px;
+  margin-left: 15px;
+  margin-top: 20px;
+  float: right;
+}
+
+.light-theme {
+  background-color:thistle;
+  color: rgb(27, 27, 107)
+}
+
+.dark-theme {
+  background-color: #1F2227;
+  color: #CFD0D1;
+}
+
+#header{
+
+}
+
+#list{
+  margin-right: 200px;
+  margin-top: 90px;
+}
+#JS{
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#JS:hover{
+  text-decoration: underline;
+}
+#JSDEF{
+  display: none;
+  
+}
+
+#ops{
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#ops:hover{
+  text-decoration: underline;
+}
+
+#opsdef{
+  display: none;
+}
+
+#var{
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#var:hover{
+  text-decoration:underline;
+}
+
+#vardef{
+  display: none;
+}
+
+#func{
+  cursor: pointer;
+  font-weight:bold;
+}
+
+#func:hover{
+  text-decoration: underline;
+}
+
+#funcdef{
+  display: none;
+}
+
+#meth{
+  cursor:pointer;
+  font-weight: bold;
+}
+
+#meth:hover{
+  text-decoration: underline;
+}
+
+#methdef{
+  display: none;
+}
+
+#chain{
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#chain:hover{
+  text-decoration: underline;
+}
+
+#chaindef{
+  display: none;
+}
+
+#arg{
+  cursor:pointer;
+  font-weight: bold;
+}
+
+#arg:hover{
+  text-decoration: underline;
+}
+
+#argdef{
+  display: none;
+}
+
+#param{
+  cursor:pointer;
+  font-weight: bold;
+}
+
+#param:hover{
+  text-decoration: underline;
+}
+
+#paramdef{
+  display: none;
+}
+
+#return{
+  cursor:pointer;
+  font-weight: bold;
+}
+
+#return:hover{
+  text-decoration: underline;
+}
+
+#returndef{
+  display: none;
+}
+
+#string{
+  cursor:pointer;
+  font-weight: bold;
+}
+
+#string:hover{
+  text-decoration: underline;
+}
+
+#stringdef{
+  display: none;
+}
+
+#bool{
+  cursor:pointer;
+  font-weight: bold;
+}
+
+#bool:hover{
+  text-decoration: underline;
+}
+
+#booldef{
+  display: none;
+}
+
+#undef{
+  cursor:pointer;
+  font-weight: bold;
+}
+
+#undef:hover{
+  text-decoration: underline;
+}
+
+#undefdef{
+  display: none;
+}
+
+#nan{
+  cursor:pointer;
+  font-weight: bold;
+}
+
+#nan:hover{
+  text-decoration: underline;
+}
+
+#nandef{
+  display: none;
+}
+
+#alert{
+  cursor:pointer;
+  font-weight: bold;
+}
+
+#alert:hover{
+  text-decoration: underline;
+}
+
+#alertdef{
+  display: none;
+}
+
+#comment{
+  cursor:pointer;
+  font-weight: bold;
+}
+
+#comment:hover{
+  text-decoration: underline;
+}
+
+#commentdef{
+  display: none;
+}
+
+#jquery{
+  cursor:pointer;
+  font-weight: bold;
+}
+
+#jquery:hover{
+  text-decoration: underline;
+}
+
+#jquerydef{
+  display: none;
+}
+
+#attrib{
+  cursor:pointer;
+  font-weight: bold;
+}
+
+#attrib:hover{
+  text-decoration: underline;
+}
+
+#attribdef{
+  display: none;
+}
+

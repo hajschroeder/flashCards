@@ -1,0 +1,64 @@
+$(document).ready(function(){
+  $("button#light").click(function(){
+      $("body").removeClass();
+      $("body").addClass("light-theme");
+  });
+  $("button#dark").click(function(){
+    $("body").removeClass();
+    $("body").addClass("dark-theme");
+  });
+
+  $("#JS").click(function(){
+    $("#JSDEF").fadeToggle();
+  });
+  $("#ops").click(function(){
+    $("#opsdef").fadeToggle();
+  });
+  $("#var").click(function(){
+    $("#vardef").fadeToggle();
+  });
+  $("#func").click(function(){
+    $("#funcdef").fadeToggle();
+  });
+  $("#meth").click(function(){
+    $("#methdef").fadeToggle();
+  });
+  $("#param").click(function(){
+      $("#paramdef").fadeToggle();
+  });
+  $("#return").click(function(){
+    $("#returndef").fadeToggle();
+  });
+  $("#chain").click(function(){
+      $("#chaindef").fadeToggle();
+  });
+  $("#arg").click(function(){
+    $("#argdef").fadeToggle();
+  });
+  $("#string").click(function(){
+    $("#stringdef").fadeToggle();
+  });
+  $("#bool").click(function(){
+    $("#booldef").fadeToggle();
+  });
+  $("#undef").click(function(){
+    $("#undefdef").fadeToggle();
+  });
+  $("#nan").click(function(){
+    $("#nandef").fadeToggle();
+  });
+  $("#alert").click(function(){
+    $("#alertdef").fadeToggle();
+  });
+  $("#comment").click(function(){
+    $("#commentdef").fadeToggle();
+  });
+  $("#jquery").click(function(){
+    $("#jquerydef").fadeToggle();
+  });
+  $("#attrib").click(function(){
+    $("#attribdef").fadeToggle();
+  })
+});
+
+
